@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_3" data-name="Capa 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 961.5 400">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: Bahnschrift-Light, Bahnschrift;
+        font-variation-settings: 'wght' 300, 'wdth' 100;
+        font-weight: 300;
+      }
+
+      .cls-1, .cls-4 {
+        font-size: 14px;
+      }
+
+      .cls-5 {
+        font-family: Bahnschrift, Bahnschrift;
+        font-size: 19px;
+        font-variation-settings: 'wght' 400, 'wdth' 100;
+      }
+
+      .cls-5, .cls-6, .cls-3 {
+        fill: #301b82;
+      }
+
+      .cls-7 {
+        letter-spacing: 1.54em;
+      }
+
+      .cls-7, .cls-3 {
+        font-size: 17px;
+      }
+
+      .cls-8 {
+        fill: #bedded;
+      }
+
+      .cls-8, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-8" x="70.89" y="80.52" width="832" height="295" rx="29.07" ry="29.07"/>
+  <rect class="cls-6" x="626.89" y="237.52" width="229" height="37"/>
+  <rect class="cls-6" x="375.89" y="237.52" width="238" height="37"/>
+  <text class="cls-5" transform="translate(80.81 31)"><tspan x="0" y="0">Asignaturas impartidas</tspan></text>
+  <text class="cls-3" transform="translate(80.13 51.58)"><tspan x="0" y="0">Durante los ciclos de </tspan><tspan class="cls-11" x="158.17" y="0">l</tspan><tspan x="163.01" y="0">a car</tspan><tspan class="cls-14" x="199.73" y="0">r</tspan><tspan x="206.82" y="0">era</tspan></text>
+  <text class="cls-5" transform="translate(195.43 320.25)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="30.88" y="24">I a IV</tspan></text>
+  <text class="cls-5" transform="translate(415.11 320.02)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="52.88" y="24">V a VIII</tspan></text>
+  <text class="cls-5" transform="translate(692.82 320.03)"><tspan x="0" y="0">Ciclo p</tspan><tspan class="cls-14" x="55.42" y="0">r</tspan><tspan x="63.34" y="0">o</tspan><tspan class="cls-16" x="73.7" y="0">f</tspan><tspan x="79.44" y="0">esional</tspan><tspan x="48.72" y="24">IX a X</tspan></text>
+  <polygon class="cls-6" points="129.89 280.52 129.89 291.36 241.89 291.36 241.89 300.27 251.43 300.27 251.43 290.39 488.43 290.39 488.43 300.27 497.34 300.27 497.34 290.39 755.89 290.39 755.89 300.27 765.89 300.27 765.89 290.39 855.89 290.39 855.89 280.52 129.89 280.52"/>
+  <text class="cls-3" transform="translate(114.61 344.07) rotate(-90)"><tspan x="0" y="0">Semest</tspan><tspan class="cls-13" x="57.62" y="0">r</tspan><tspan class="cls-12" x="64.7" y="0">es</tspan></text>
+  <text class="cls-1" transform="translate(386.13 261.3)"><tspan x="0" y="0">Seminario de Licenciatura I y II</tspan></text>
+  <text class="cls-1" transform="translate(636.93 261.37)"><tspan class="cls-9" x="0" y="0">P</tspan><tspan class="cls-14" x="8.37" y="0">roy</tspan><tspan x="28.33" y="0">ecto de título I y II</tspan></text>
+  <rect class="cls-6" x="151.89" y="230.52" width="187" height="44"/>
+  <text class="cls-1" transform="translate(158.36 248.47)"><tspan x="0" y="0">Comunicación del </tspan><tspan class="cls-9" x="111.65" y="0">P</tspan><tspan class="cls-14" x="120.03" y="0">roy</tspan><tspan x="139.98" y="0">ecto </tspan><tspan x="0" y="17">de Diseño</tspan></text>
+  <rect class="cls-6" x="151.89" y="183.52" width="187" height="44"/>
+  <text class="cls-2" transform="translate(158.08 202.45)"><tspan class="cls-4"><tspan x="0" y="0">Gestión del </tspan><tspan class="cls-9" x="71.24" y="0">P</tspan><tspan class="cls-14" x="79.61" y="0">roy</tspan><tspan x="99.57" y="0">ecto de </tspan></tspan><tspan class="cls-4" x="0" y="18">Diseño</tspan><tspan class="cls-7" x="42.92" y="18">	</tspan></text>
+  <rect class="cls-6" x="375.89" y="190.52" width="238" height="44"/>
+  <rect class="cls-6" x="375.89" y="157.52" width="238" height="30"/>
+  <text class="cls-1" transform="translate(386.35 208.14)"><tspan x="0" y="0">Electi</tspan><tspan class="cls-14" x="34.98" y="0">v</tspan><tspan x="41.84" y="0">o Mención I y </tspan><tspan class="cls-15" x="121.83" y="0">S</tspan><tspan x="130.04" y="0">: </tspan><tspan x="0" y="17">Emp</tspan><tspan class="cls-14" x="27.97" y="17">r</tspan><tspan x="33.81" y="17">endimiento basado en Diseño</tspan></text>
+  <text class="cls-1" transform="translate(386.49 178.54)"><tspan class="cls-10" x="0" y="0">P</tspan><tspan x="8.1" y="0">orta</tspan><tspan class="cls-16" x="33.72" y="0">f</tspan><tspan x="37.95" y="0">olios e Inducción </tspan><tspan class="cls-11" x="142.64" y="0">l</tspan><tspan x="146.62" y="0">aboral</tspan></text>
+  <rect class="cls-6" x="375.89" y="110.52" width="238" height="44"/>
+  <text class="cls-1" transform="translate(383.87 129)"><tspan x="0" y="0">Electi</tspan><tspan class="cls-14" x="34.98" y="0">v</tspan><tspan x="41.84" y="0">o Ambas Menciones: </tspan><tspan x="0" y="17">Estrategias de Ecodiseño</tspan></text>
+</svg>
