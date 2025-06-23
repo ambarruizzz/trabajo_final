@@ -8,19 +8,19 @@
         }
 
         g#reprueban {
-            fill: #9b9b9b;
+            fill: #F9E130;
         }
 
         g#aprueban {
-            fill: #189af6;
+            fill: #0050FF;
         }
 
         g#industriales {
-            fill: #125389;
+            fill: #301B82;
         }
 
         g#sinmencion {
-            fill: #00c3ff;
+            fill: #7A8CD3;
         }
 
         .rayita {
