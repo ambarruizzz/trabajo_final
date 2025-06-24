@@ -3,9 +3,12 @@
     --acento: #7A8CD3;
     --acentoBajo: #301B82;
     --gris: #546E7A;
+    
 }
+
+
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Bahnschrift-Light, Bahnschrift;
     text-align: center;
     margin: 0;
     padding: 0;
