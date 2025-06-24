@@ -11,12 +11,12 @@
         .t1 {
             font-size: 11px;
             fill: #000000;
-            font-family: Bahnschrift-Light, Bahnschrift;
+            font-family: Helvetica;
         }
         .t2 {
             font-size: 11px;
             fill: #000000;
-            font-family: Bahnschrift-Light, Bahnschrift;
+            font-family: Helvetica;
         }
         .s3 {
             fill: #000000;

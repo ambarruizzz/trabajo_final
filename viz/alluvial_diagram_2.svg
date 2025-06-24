@@ -7,7 +7,7 @@
         g {
             font-size: 11px;
             fill: #000000;
-             font-family: Bahnschrift-Light, Bahnschrift;
+             font-family: Helvetica;
         }
         .nota {
             font-weight: bold;

@@ -4,7 +4,7 @@
         g#viz {
             font-size: 14px;
             fill: #000000;
-            font-family: Bahnschrift-Light, Bahnschrift;
+            font-family: Helvetica;
         }
 
         g#reprueban {

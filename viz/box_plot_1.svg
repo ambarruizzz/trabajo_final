@@ -12,7 +12,7 @@
             font-size: 11px;
             fill: #000000;
             font-weight: 400;
-            font-family: Bahnschrift-Light, Bahnschrift;
+            font-family: Helvetica;
         }
         .s2 {
             fill: #000000;
